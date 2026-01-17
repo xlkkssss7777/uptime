@@ -10,6 +10,7 @@ window.Config = {
     //'m802163742-70db4a866e774e1b6e06503f', // Firefox API key
     //'m802164088-f68baad8b791abd60b1683e3', // 影视 API key
     //'m802164114-bb9176ad9b506fa5a682778b', // Uptime Kuma API key
+    //'m802164481-73ee0f53dbc7dc51fae55f94', // 哪吒探针集合版 API key
   ],
 
   // 日志天数
@@ -34,6 +35,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
