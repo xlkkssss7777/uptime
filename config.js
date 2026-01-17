@@ -26,14 +26,15 @@ window.Config = {
     },    
     {
       text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
+      url: 'https://github.com/xlkkssss7777/uptime/'
     },
     {
-      text: '博客',
-      url: 'https://blog.zrf.me/'
+      text: '自签证书',
+      url: 'https://ssl2008.xccdee.nyc.mn/'
     },
   ],
 };
+
 
 
 
