@@ -18,7 +18,7 @@ window.Config = {
     //'m802164698-66fcea372ef7f5ba95206a60', // 加密聊天室 API key
     //'m802164974-86c1b4b598d21d628dacd139', // 混淆 API key
     //'m802165050-b7448016d78e5e9db34d6c18', // keepURL状态 API key
-    //'m802164114-bb9176ad9b506fa5a682778b', // idx-777bbc@gmail.com-美国 俄勒冈州 API key
+    //'m802165174-30868e84455d1270ad48fc40', // idx-777bbc@gmail.com-美国 俄勒冈州 API key
   ],
 
   // 日志天数
@@ -43,6 +43,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
