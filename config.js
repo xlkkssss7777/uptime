@@ -17,6 +17,7 @@ window.Config = {
     //'m802164657-e0c28cbb2e98f978e59d8533', // Solara音乐 API key
     //'m802164698-66fcea372ef7f5ba95206a60', // 加密聊天室 API key
     //'m802164974-86c1b4b598d21d628dacd139', // 混淆 API key
+    //'m802165050-b7448016d78e5e9db34d6c18', // keepURL状态 API key
   ],
 
   // 日志天数
@@ -41,6 +42,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
