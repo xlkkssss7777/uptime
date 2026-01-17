@@ -13,5 +13,15 @@
 </head>
 <body>
   <div id="app"></div>
+
+  <!-- JS 覆盖页脚文字 -->
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      const footer = document.querySelector('footer');
+      if (footer) {
+        footer.innerHTML = '© 2026@xlkkssss <a href="https://uptimerobot.kkkk.hidns.co">站点链接</a>, Version 2.0.0';
+      }
+    });
+  </script>
 </body>
 </html>
