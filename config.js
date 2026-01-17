@@ -12,6 +12,7 @@ window.Config = {
     //'m802164114-bb9176ad9b506fa5a682778b', // Uptime Kuma API key
     //'m802164481-73ee0f53dbc7dc51fae55f94', // 哪吒探针集合版 API key
     //'m802164570-f8c573ee41c19aa846fb9aa1', // Docker 镜像加速 API key
+    //'m802164588-3c79496c205bc65f4b93b49f', // 汇聚订阅 API key
   ],
 
   // 日志天数
@@ -36,6 +37,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
