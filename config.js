@@ -22,7 +22,7 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://uptime.zrfme.com/'
+      url: 'https://uptimerobot.kkkk.hidns.co/'
     },    
     {
       text: 'GitHub',
@@ -34,6 +34,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
