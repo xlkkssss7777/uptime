@@ -14,6 +14,7 @@ window.Config = {
     //'m802164570-f8c573ee41c19aa846fb9aa1', // Docker 镜像加速 API key
     //'m802164588-3c79496c205bc65f4b93b49f', // 汇聚订阅 API key
     //'m802164643-689caeffe75bff6fbfb89b7d', // 图床 API key
+    //'m802164657-e0c28cbb2e98f978e59d8533', // Solara音乐 API key
   ],
 
   // 日志天数
@@ -38,6 +39,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
