@@ -24,6 +24,7 @@ window.Config = {
     //'m802167755-817e2300bc0c734fb6011cc7', // 德国koyeb.app API key
     //'m802168244-3e6c2e2fd1891c3ef5d28ce4', // 域名面板 API key
     //'m802169102-7a312d73fdb371492d7a22bd', // huggingface-65 API key
+    //'m802169191-a600556693de5b304791cd15', // 即时新闻 API key
   ],
 
   // 日志天数
@@ -48,6 +49,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
