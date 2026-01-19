@@ -26,6 +26,7 @@ window.Config = {
     //'m802169102-7a312d73fdb371492d7a22bd', // huggingface-65 API key
     //'m802169191-a600556693de5b304791cd15', // 实时新闻 API key
     //'m802170717-b0938fd91f7859a7ac35fd86', // Uptime Kuma分配域名 API key
+    //'m802170772-94795603cf35add06cc8c811', // idx-8877华盛顿 API key
   ],
 
   // 日志天数
@@ -50,6 +51,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
