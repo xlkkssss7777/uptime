@@ -46,7 +46,7 @@ window.Config = {
       text: 'GitHub',
       url: 'https://github.com/xlkkssss7777/uptime/'
       {
-      text: 'NaviHive导航',
+      text: 'NaviHive',
       url: 'https://daohang.xf.ddns-ip.net/'
     },
     {
@@ -55,6 +55,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
