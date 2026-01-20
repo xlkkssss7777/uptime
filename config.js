@@ -28,6 +28,7 @@ window.Config = {
     //'m802170717-b0938fd91f7859a7ac35fd86', // Uptime Kuma分配域名 API key
     //'m802170772-94795603cf35add06cc8c811', // NaviHive导航 API key
     //'m802175710-0f0aebbf81c1966954d92cb5', // Cloudflare-智能中控 API key
+    //'m802177671-cc83d997cc7d89c07dacabc5', // zeabur-Firefox browser API key
   ],
 
   // 日志天数
@@ -52,6 +53,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
