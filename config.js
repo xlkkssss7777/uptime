@@ -7,6 +7,7 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
     'ur3267589-8f0b05c0ab405dece1d597f8',
+    'ur2895179-3f53714943878fe8f96aabc2',
     //'m802163742-70db4a866e774e1b6e06503f', // Firefox API key
     //'m802164088-f68baad8b791abd60b1683e3', // 影视 API key
     //'m802164114-bb9176ad9b506fa5a682778b', // Uptime Kuma API key
@@ -53,6 +54,7 @@ window.Config = {
     },
   ],
 };
+
 
 
 
