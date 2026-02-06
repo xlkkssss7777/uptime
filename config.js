@@ -50,11 +50,12 @@ window.Config = {
       url: 'https://github.com/xlkkssss7777/uptime/'
     },
     {
-      text: '自签证书',
-      url: 'https://ssl2008.xccdee.nyc.mn/'
+      text: '影视',
+      url: 'https://yss.xccdee.nyc.mn/'
     },
   ],
 };
+
 
 
 
