@@ -1,93 +1,98 @@
 window.Config = {
 
-  // 显示标题
-  SiteName: 'Uptime-status',
+  // [v2.0] 显示标题
+  SiteName: 'UpTime',
 
-  // UptimeRobot Api Keys
+  // [v2.0] UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur3267589-8f0b05c0ab405dece1d597f8',
     'ur2895179-3f53714943878fe8f96aabc2',
-    //'m802163742-70db4a866e774e1b6e06503f', // Firefox API key
-    //'m802164088-f68baad8b791abd60b1683e3', // 影视 API key
-    //'m802164114-bb9176ad9b506fa5a682778b', // Uptime Kuma API key
-    //'m802164481-73ee0f53dbc7dc51fae55f94', // 哪吒探针集合版 API key
-    //'m802164570-f8c573ee41c19aa846fb9aa1', // Docker 镜像加速 API key
-    //'m802164588-3c79496c205bc65f4b93b49f', // 汇聚订阅 API key
-    //'m802164643-689caeffe75bff6fbfb89b7d', // 图床 API key
-    //'m802164657-e0c28cbb2e98f978e59d8533', // Solara音乐 API key
-    //'m802164698-66fcea372ef7f5ba95206a60', // 加密聊天室 API key
-    //'m802164974-86c1b4b598d21d628dacd139', // 混淆 API key
-    //'m802165050-b7448016d78e5e9db34d6c18', // keepURL状态 API key
-    //'m802165174-30868e84455d1270ad48fc40', // idx-777bbc@gmail.com-美国 俄勒冈州 API key
-    //'m802166997-870600006cb750b7cf811ce9', // idx©️-xielin1919-比利时 API key
-    //'m802164114-bb9176ad9b506fa5a682778b', // idx©️-xielin1919-美国 API key
-    //'m802167755-817e2300bc0c734fb6011cc7', // 德国koyeb.app API key
-    //'m802168244-3e6c2e2fd1891c3ef5d28ce4', // 域名面板 API key
-    //'m802169102-7a312d73fdb371492d7a22bd', // huggingface-65 API key
-    //'m802169191-a600556693de5b304791cd15', // 实时新闻 API key
-    //'m802170717-b0938fd91f7859a7ac35fd86', // Uptime Kuma分配域名 API key
-    //'m802170772-94795603cf35add06cc8c811', // NaviHive导航 API key
-    //'m802175710-0f0aebbf81c1966954d92cb5', // Cloudflare-智能中控 API key
-    //'m802177671-cc83d997cc7d89c07dacabc5', // zeabur-Firefox browser API key
-    //'m802177734-bc88617c66a086e9e0b2767e', // bolg-网站 API key
+    'ur3267589-8f0b05c0ab405dece1d597f8',
   ],
 
-  // 日志天数
-  CountDays: 30,
+  // [v2.0] 日志天数
+  // 建议 60 或 90，显示效果比较好
+  CountDays: 90,
 
-  // 是否显示检测站点的链接
+  // [v2.0] 是否显示检测站点的链接
   ShowLink: true,
 
-  // 导航栏菜单
+  // [v2.0] 导航栏菜单
   Navi: [
     {
-      text: '主页',
-      url: 'https://uptimerobot.kkkk.hidns.co/'
-    },    
+      text: '印度up',
+      url: 'https://dona-w225ej9m1p.dcdeploy.cloud/'
+    },
     {
-      text: 'GitHub',
-      url: 'https://github.com/xlkkssss7777/uptime/'
+      text: 'idx',
+      url: 'https://idx.google.com/'
+    },
+    {
+      text: 'freem',
+      url: 'https://new.freemchost.com/app/servers/'
+    },
+    {
+      text: '法国vps',
+      url: 'https://admin.alwaysdata.com/'
+    },
+    {
+      text: '图仓',
+      url: 'https://tuchang.t999.qzz.io/login/'
+    },
+    {
+      text: 'dedyn',
+      url: 'https://desec.io/domains'
+    },
+    {
+      text: '导航',
+      url: 'https://daohang.xf.ddns-ip.net/'
+    },
+    {
+      text: 'CF',
+      url: 'https://dash.cloudflare.com'
+    },
+    {
+      text: '哪吒',
+      url: 'https://nazha.xccssaa.dpdns.org/'
+    },
+    {
+      text: '混淆',
+      url: 'https://toolonline.net/js-obfuscator/'
+    },
+    {
+      text: 'uptime',
+      url: 'http://xlkkcccc.fsghhh.serv00.net:35142/'
     },
     {
       text: 'ip查询',
       url: 'https://ping0.cc/'
     },
+    {
+      text: 'GitHub',
+      url: 'https://github.com/ccty3322/xin-uptime'
+    },
+    {
+      text: '邮箱',
+      url: 'https://mail.xccdee.nyc.mn/sent/'
+    },
   ],
+
+  // [v2.1] Umami 统计站点的 ID (可选)
+  UmamiId: '',
+
+  // [v2.1] Umami 统计站点的服务器地址 (可选)
+  UmamiServer: '',
+
+  // [v2.1] SEO 描述 (可选)
+  SEO_Description: '一个基于 UptimeRobot API 的在线状态面板',
+
+  // [v2.1] SEO 关键词 (可选)
+  SEO_Keywords: 'uptime, status, monitor',
+
+  // [v2.1] 自定义 CSS (可选)
+  // 例如: #footer { display: none; }
+  CustomCSS: '',
+
+  // [v2.1] 自定义 JS (可选)
+  CustomJS: '',
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
